@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ececec"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header_menu" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#a3a3a3" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d8d8d8" />
+
+    <TextView
+        android:id="@+id/upcoming_appts_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bebebe"
+        android:padding="10dp"
+        android:text="@string/upcomingappts"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/small_text"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/upcoming_appts"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#a3a3a3" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d8d8d8" />
+
+    <TextView
+        android:id="@+id/past_appts_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bebebe"
+        android:padding="10dp"
+        android:text="@string/pastappts"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/small_text"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/past_appts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#00000000"
+        android:dividerHeight="0dp"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false" />
+
+    <TextView
+        android:id="@+id/noappts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/noappts"
+        android:textColor="#BBBBBB"
+        android:visibility="gone" />
+
+</LinearLayout>

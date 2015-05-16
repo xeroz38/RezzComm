@@ -1,0 +1,400 @@
+274,Cancer Pain,Cancer Pain,1
+385,Chronic Post Surgical Pain,Chronic Post Surgical Pain,1
+52,Clinical Anaesthesia,Clinical Anaesthesia,1
+397,Epidural Steroid Injection,Epidural Steroid Injection,1
+408,Facet Joint Syndrome & Treatment,Facet Joint Syndrome & Treatment,1
+419,Low Back Pain,Low Back Pain,1
+53,Muscle pain,Muscle pain,1
+430,Neck Pain,Neck Pain,1
+75,Pain Management Consultation,Pain Management Consultation,1
+86,Pain Management Follow Up,Pain Management Follow Up,1
+64,Regional analgesia,Regional analgesia,1
+441,Sacroiliac Joint Pain & Treatment,Sacroiliac Joint Pain & Treatment,1
+163,Surgical Intensive Care,Surgical Intensive Care,1
+230,Athlete screening,Athlete screening,2
+219,Cardiac PET,Cardiac PET,2
+97,Cardiologic Consultation,Cardiologic Consultation,2
+108,Cardiologic Follow Up,Cardiologic Follow Up,2
+119,Cardiovascular Checkup,Cardiovascular Checkup,2
+130,Carotid Ultrasound,Carotid Ultrasound,2
+141,Coronorary Angiography,Coronorary Angiography,2
+152,ECG/EKG,ECG/EKG,2
+164,Echocardiography,Echocardiography,2
+175,High Blood Pressure,High Blood Pressure,2
+186,Stent Consultation,Stent Consultation,2
+197,Stent Follow up,Stent Follow up,2
+208,Treadmill Stress Test,Treadmill Stress Test,2
+241,Acne,Acne,3
+252,Annual Skin Screening,Annual Skin Screening,3
+263,Anti-Aging Treatment,Anti-Aging Treatment,3
+275,Botox Treatment,Botox Treatment,3
+286,Dermatological Consultation,Dermatological Consultation,3
+297,Dermatological Follow Up,Dermatological Follow Up,3
+308,Eczema,Eczema,3
+319,Filler Treatment,Filler Treatment,3
+330,Hair Loss,Hair Loss,3
+374,Hair Removal,Hair Removal,3
+386,Hair Transplantation,Hair Transplantation,3
+388,Laser Treatment,Laser Treatment,3
+341,Mohs Surgery,Mohs Surgery,3
+352,Psoriasis,Psoriasis,3
+363,Skin Rashes,Skin Rashes,3
+389,Surgical treatment of scars,Surgical treatment of scars,3
+394,Allergy,Allergy,4
+395,Ear & Hearing Disorders,Ear & Hearing Disorders,4
+399,General ENT  Consultation,General ENT  Consultation,4
+400,General ENT  Follow Up,General ENT  Follow Up,4
+398,"Head & Neck, Thyroid & Salivary Gland  ","Head & Neck, Thyroid & Salivary Gland  ",4
+393,Nasal & Sinus Services  ,Nasal & Sinus Services  ,4
+391,Pediatric(Children) ENT Consultation,Pediatric(Children) ENT Consultation,4
+392,Pediatric(Children) ENT Follow Up,Pediatric(Children) ENT Follow Up,4
+390,Snoring & Obstructive Sleep  ,Snoring & Obstructive Sleep  ,4
+401,Throat Disorders,Throat Disorders,4
+396,Vocal & Airway Disorders  ,Vocal & Airway Disorders  ,4
+405,Adrenal disorders,Adrenal disorders,5
+402,Diabetes Consultation,Diabetes Consultation,5
+403,Diabetes Follow Up,Diabetes Follow Up,5
+410,Hormonal Disorders,Hormonal Disorders,5
+409,Metabolic disorders,Metabolic disorders,5
+407,Osteoporosis,Osteoporosis,5
+406,Reproductive disorders,Reproductive disorders,5
+411,Reproductive Endocrinology,Reproductive Endocrinology,5
+404,Thyroid disorders,Thyroid disorders,5
+423,Cataract Surgery,Cataract Surgery,6
+425,Corneal Disorders,Corneal Disorders,6
+426,Diabetic Eye Screening & Diabetic Retinopathy,Diabetic Eye Screening & Diabetic Retinopathy,6
+422,Eye Infection,Eye Infection,6
+424,General Eye Problems,General Eye Problems,6
+414,Glaucoma Consultation,Glaucoma Consultation,6
+415,Glaucoma Follow Up,Glaucoma Follow Up,6
+421,Neuro-Ophthalmology,Neuro-Ophthalmology,6
+420,Ocular Inflammation & Immunology,Ocular Inflammation & Immunology,6
+418,Oculoplastic & Aesthetic Eyeplastic,Oculoplastic & Aesthetic Eyeplastic,6
+416,Paediatric Ophthalmology & Adult Strabismus,Paediatric Ophthalmology & Adult Strabismus,6
+417,Refractive Surgery / LASIK,Refractive Surgery / LASIK,6
+413,Retina Follow Up,Retina Follow Up,6
+412,Retina Surgery & Consultation,Retina Surgery & Consultation,6
+431,Abdominal Pain,Abdominal Pain,7
+443,Chronic Diarrhoea and Constipation,Chronic Diarrhoea and Constipation,7
+446,"Colonoscopy, Gastroscopy","Colonoscopy, Gastroscopy",7
+445,Colorectal and Gastric Cancer Screening,Colorectal and Gastric Cancer Screening,7
+436,Fatty Liver,Fatty Liver,7
+434,Gallstone Problem,Gallstone Problem,7
+427,"Heartburn, Acid-Reflux","Heartburn, Acid-Reflux",7
+428,"Indigestion, Bloating, Nausea & Vomiting","Indigestion, Bloating, Nausea & Vomiting",7
+442,Inflammatory Bowel Syndrome (Ulcerative Colitis & Crohn’s Disease),Inflammatory Bowel Syndrome (Ulcerative Colitis & Crohn’s Disease),7
+440,Irritable Bowel Syndrome,Irritable Bowel Syndrome,7
+433,Jaundice & Chronic Hepatitis,Jaundice & Chronic Hepatitis,7
+439,Liver Cancer,Liver Cancer,7
+437,Liver Cirrhosis,Liver Cirrhosis,7
+435,Pancreatic Problem,Pancreatic Problem,7
+429,Peptic Ulcer Diagnosis and Treatment,Peptic Ulcer Diagnosis and Treatment,7
+438,Pre- and Post-Liver Transplantation Care,Pre- and Post-Liver Transplantation Care,7
+444,Rectal Bleeding,Rectal Bleeding,7
+432,Weight Loss and Loss of Appetite,Weight Loss and Loss of Appetite,7
+447,Anaemia,Anaemia,8
+448,Bleeding Disorders,Bleeding Disorders,8
+57,Blood Marrow Transplant Consultation,Blood Marrow Transplant Consultation,8
+56,Blood Thinning Theraphy (Anticoagulant),Blood Thinning Theraphy (Anticoagulant),8
+55,Blood Transfusion Consultation,Blood Transfusion Consultation,8
+449,Chemotheraphy,Chemotheraphy,8
+450,Clotting Disorders,Clotting Disorders,8
+58,Hemophilia,Hemophilia,8
+451,Hemotology Consultation,Hemotology Consultation,8
+54,Hemotology Follow Up,Hemotology Follow Up,8
+59,Multiple Myeloma,Multiple Myeloma,8
+60,Comprehensive Health Screening for Older Persons,Comprehensive Health Screening for Older Persons,9
+61,Delirium (Acute Confusional States),Delirium (Acute Confusional States),9
+62,Dementia,Dementia,9
+63,Depression,Depression,9
+67,General Elderly Care Consultation,General Elderly Care Consultation,9
+68,General Elderly Care Follow Up,General Elderly Care Follow Up,9
+65,Osteoporosis,Osteoporosis,9
+66,Walking difficulties and frequent falls,Walking difficulties and frequent falls,9
+69,Arthritis,Arthritis,10
+84,"Bone, Joint & Tendon Repair & Reconstruction","Bone, Joint & Tendon Repair & Reconstruction",10
+72,Carpal Tunnel Syndrome,Carpal Tunnel Syndrome,10
+80,Chronic Bone Infections,Chronic Bone Infections,10
+81,Congenital Hand and Upper Limb Anomalies,Congenital Hand and Upper Limb Anomalies,10
+73,Cubital Tunnel Syndrome,Cubital Tunnel Syndrome,10
+71,De Quervains Tenosynovitis,De Quervains Tenosynovitis,10
+76,Hand Fractures,Hand Fractures,10
+74,Hand Injuries,Hand Injuries,10
+82,Microsurgical & Major Replantation,Microsurgical & Major Replantation,10
+77,Nerve Injuries,Nerve Injuries,10
+79,Reconstruction of Upper & Lower Limbs,Reconstruction of Upper & Lower Limbs,10
+70,Trigger Finger,Trigger Finger,10
+83,Tumours & Cysts,Tumours & Cysts,10
+78,Wrist Pain & Injuries,Wrist Pain & Injuries,10
+85,Community infections and fevers,Community infections and fevers,11
+87,Dengue,Dengue,11
+103,HIV & AIDS care,HIV & AIDS care,11
+99,Infections of implants & devices,Infections of implants & devices,11
+93,Infectious diarrhoea,Infectious diarrhoea,11
+88,Influenza,Influenza,11
+90,Malaria,Malaria,11
+91,Melioidosis,Melioidosis,11
+96,Orthopaedic Infections,Orthopaedic Infections,11
+95,Outpatient IV antibiotic therapy,Outpatient IV antibiotic therapy,11
+102,Parasitic and fungal diseases,Parasitic and fungal diseases,11
+89,Pneumonia,Pneumonia,11
+104,Post-exposure prophylaxis,Post-exposure prophylaxis,11
+101,Sexually transmitted diseases,Sexually transmitted diseases,11
+98,Surgical Infections,Surgical Infections,11
+100,Transplant Infections,Transplant Infections,11
+94,Tropical diseases,Tropical diseases,11
+92,Tuberculosis,Tuberculosis,11
+105,Blood in Urine (Hematuria),Blood in Urine (Hematuria),12
+106,Chronic Kidney Disease,Chronic Kidney Disease,12
+109,Dialysis,Dialysis,12
+110,Kidney Stone,Kidney Stone,12
+111,Kidney Transplant,Kidney Transplant,12
+112,Nephrological Consultation,Nephrological Consultation,12
+113,Nephrological Follow Up,Nephrological Follow Up,12
+114,Protein in Urine,Protein in Urine,12
+107,Urinary Tract Infections,Urinary Tract Infections,12
+120,Alzheimer’s Disease,Alzheimer’s Disease,13
+123,Dementia,Dementia,13
+128,Electroencephalogram (EEG),Electroencephalogram (EEG),13
+127,Electromyography (EMG),Electromyography (EMG),13
+124,Headache,Headache,13
+125,Migraine,Migraine,13
+122,"Movement Disorders (Dystonia, Tremor, etc)","Movement Disorders (Dystonia, Tremor, etc)",13
+126,Nerve Conduction Study (NCS),Nerve Conduction Study (NCS),13
+117,"Nerve, neuro-muscular junction and muscle diseases","Nerve, neuro-muscular junction and muscle diseases",13
+129,Neurological Consultation,Neurological Consultation,13
+131,Neurological Follow Up,Neurological Follow Up,13
+121,Parkinson’s Disease,Parkinson’s Disease,13
+115,Seizures / Epilepsy,Seizures / Epilepsy,13
+118,Sleep Disorders Treatment,Sleep Disorders Treatment,13
+116,Stroke Check-up,Stroke Check-up,13
+146,Breast Cancer,Breast Cancer,14
+142,Endometriosis,Endometriosis,14
+140,Family Planning Advice,Family Planning Advice,14
+139,"Fertility Investigations, super-ovulation and intra-uterine insemination","Fertility Investigations, super-ovulation and intra-uterine insemination",14
+135,Fetal Anatomy Ultrasound Scanning,Fetal Anatomy Ultrasound Scanning,14
+134,First Trimester Combined Screening (OSCAR),First Trimester Combined Screening (OSCAR),14
+136,General Gynaecological Consultation,General Gynaecological Consultation,14
+137,General Gynaecological Follow Up,General Gynaecological Follow Up,14
+144,Menopause Consultation,Menopause Consultation,14
+145,Menopause Follow Up,Menopause Follow Up,14
+143,Ovarian cysts,Ovarian cysts,14
+132,Pregnancy Consultation,Pregnancy Consultation,14
+133,Pregnancy Follow Up,Pregnancy Follow Up,14
+147,Vaginal Infection,Vaginal Infection,14
+138,Woman Screening (including cervical and breast screening),Woman Screening (including cervical and breast screening),14
+148,Consultation Services,Consultation Services,15
+149,Health Hazards,Health Hazards,15
+150,Health Promotion,Health Promotion,15
+151,Health Screening,Health Screening,15
+153,Noise Survey,Noise Survey,15
+154,Pre-Employment checks,Pre-Employment checks,15
+155,Protection Equipment Sales,Protection Equipment Sales,15
+156,Statutory Medical Examinations,Statutory Medical Examinations,15
+159,Cancer Screening and Diagnosis,Cancer Screening and Diagnosis,16
+157,Cancer Treatment Consultation,Cancer Treatment Consultation,16
+158,Cancer Treatment Follow Up,Cancer Treatment Follow Up,16
+160,Palliative and Pain Management,Palliative and Pain Management,16
+166,Ankle Problem,Ankle Problem,17
+168,Back Problem,Back Problem,17
+171,Elbow Problem,Elbow Problem,17
+172,Foot Problem,Foot Problem,17
+173,Hand Problem,Hand Problem,17
+162,Hip Problem,Hip Problem,17
+161,Knee Problem,Knee Problem,17
+170,Muscle Tears & Problem,Muscle Tears & Problem,17
+165,Shoulder Problem,Shoulder Problem,17
+169,Sport Injury,Sport Injury,17
+167,Wrist Problem,Wrist Problem,17
+177,New Born Check-up,New Born Check-up,18
+174,Paediatric Consultation,Paediatric Consultation,18
+176,Paediatric Follow Up,Paediatric Follow Up,18
+180,Pre-natal Consultation,Pre-natal Consultation,18
+181,Pre-natal Follow Up,Pre-natal Follow Up,18
+179,Sick Child Visit,Sick Child Visit,18
+178,Yearly Paediatric Check Up,Yearly Paediatric Check Up,18
+184,Clinical Massage,Clinical Massage,19
+183,Clinical Pilates,Clinical Pilates,19
+189,Elderly Care,Elderly Care,19
+188,Neurological Rehabilitation,Neurological Rehabilitation,19
+182,Pain Relief Practice,Pain Relief Practice,19
+193,Physical Therapy Consultation,Physical Therapy Consultation,19
+194,Physical Therapy Follow Up,Physical Therapy Follow Up,19
+187,Post Surgery/Hospitalisation,Post Surgery/Hospitalisation,19
+185,Sports Therapy,Sports Therapy,19
+191,Strength and Conditioning,Strength and Conditioning,19
+190,Weight Loss,Weight Loss,19
+192,Workplace Health Program,Workplace Health Program,19
+207,Aesthetic Surgery of the Female Gentals,Aesthetic Surgery of the Female Gentals,20
+210,"BOTOX®, Fillers & Lipostabil","BOTOX®, FILLERS & LIPOSTABIL",20
+204,Breast Surgery,Breast Surgery,20
+213,Chemical Peels,Chemical Peels,20
+195,COSMETIC SURGERY Consultation,COSMETIC SURGERY Consultation,20
+196,Cosmetic Surgery Follow Up,Cosmetic Surgery Follow Up,20
+199,Cosmetic Surgery of the Ears,Cosmetic Surgery of the Ears,20
+200,Cosmetic Surgery of the Nose (Rhinoplasty),Cosmetic Surgery of the Nose (Rhinoplasty),20
+206,Excision of Skin Lesions / Cysts / Lipomas / Scar Revision,Excision of Skin Lesions / Cysts / Lipomas / Scar Revision,20
+198,Eyelid Surgery,Eyelid Surgery,20
+201,Facelife Surgery,Facelife Surgery,20
+202,Facial Contouring Surgery,Facial Contouring Surgery,20
+203,Facial Feminisation Surgery,Facial Feminisation Surgery,20
+214,Hair Removal,Hair Removal,20
+215,Laser Procedures,Laser Procedures,20
+205,Liposuction/Liposculpture,Liposuction/Liposculpture,20
+212,Microlaserpeel,Microlaserpeel,20
+209,Reconstructive Surgery,RECONSTRUCTIVE SURGERY,20
+211,Skin tightening,Skin tightening,20
+218,Arch pain,Arch pain,21
+225,Arthritis,Arthritis,21
+216,Corns / calluses,Corns / calluses,21
+222,Diabetic foot ulcers,Diabetic foot ulcers,21
+221,Flat feet,Flat feet,21
+223,Foot Consultation,Foot Consultation,21
+224,Foot Follow Up,Foot Follow Up,21
+220,Heel pain,Heel pain,21
+217,In-growing toenails,In-growing toenails,21
+228,Cold & Flu,Cold & Flu,22
+227,Cough,Cough,22
+226,Fever,Fever,22
+229,Flu Shot,Flu Shot,22
+231,General Illness Consultation,General Illness Consultation,22
+232,General Illness Follow Up,General Illness Follow Up,22
+233,Pre-Surgery Check Up,Pre-Surgery Check Up,22
+234,Pre-Travel Check Up/Shot,Pre-Travel Check Up/Shot,22
+237,Addictions,Addictions,23
+243,Anxiety disorders,Anxiety disorders,23
+236,Bipolar Disorder,Bipolar Disorder,23
+235,Depression,Depression,23
+244,Obsessive Compulsive Disorder,Obsessive Compulsive Disorder,23
+247,Psychiatry Consultation,Psychiatry Consultation,23
+248,Psychiatry Follow Up,Psychiatry Follow Up,23
+242,Psychological and behavioural issues,Psychological and behavioural issues,23
+238,Psychological disturbances,Psychological disturbances,23
+239,Schizophrenia,Schizophrenia,23
+245,Sleep problems (Such as Insomnia),Sleep problems (Such as Insomnia),23
+246,Specific mental wellness issues,Specific mental wellness issues,23
+240,Stress-related disorders,Stress-related disorders,23
+254,Addiction Treatment,Addiction Treatment,24
+256,Adult Attention Deficit Hyperactivity Disorder (ADHD),Adult Attention Deficit Hyperactivity Disorder (ADHD),24
+257,Adult distress,Adult distress,24
+260,Anger Management,Anger Management,24
+258,Anxiety & Depression,Anxiety & Depression,24
+253,Child and Adolescent Counselling,Child and Adolescent Counselling,24
+250,Couple Therapy and Marriage Counselling,Couple Therapy and Marriage Counselling,24
+261,Eating Disorder,Eating Disorder,24
+251,Family Therapy and Counselling,Family Therapy and Counselling,24
+259,Grieving,Grieving,24
+249,Psychotherapy and Counselling,Psychotherapy and Counselling,24
+255,Sex Therapy and Sexual Re-Definition Therapy,Sex Therapy and Sexual Re-Definition Therapy,24
+264,Asthma,Asthma,25
+262,Bronchiectasis,Bronchiectasis,25
+265,Bronchitis,Bronchitis,25
+277,Bronchoscopy,Bronchoscopy,25
+266,Chronic Cough,Chronic Cough,25
+267,Chronic Obstructive Pulmonary Disease(COPD),Chronic Obstructive Pulmonary Disease(COPD),25
+268,Coughing Out Blood,Coughing Out Blood,25
+269,Influenza,Influenza,25
+270,Lung Cancer,Lung Cancer,25
+276,Pneumonia,Pneumonia,25
+278,Respiratory Consultation,Respiratory Consultation,25
+279,Respiratory Follow Up,Respiratory Follow Up,25
+271,Snoring And Sleep Apnea,Snoring And Sleep Apnea,25
+272,Tuberculosis,Tuberculosis,25
+273,Upper Respiratory Tract Infections,Upper Respiratory Tract Infections,25
+285,Barium Studies and Fluoroscopy,Barium Studies and Fluoroscopy,26
+284,Bone Mineral Densitometry,Bone Mineral Densitometry,26
+280,Imaging services,Imaging services,26
+289,Interventional Radiology,Interventional Radiology,26
+283,Intravenous Urograms,Intravenous Urograms,26
+282,Mammography,Mammography,26
+281,Plain Radiology,Plain Radiology,26
+288,Specialized examinations,Specialized examinations,26
+290,Ultrasound Scans,Ultrasound Scans,26
+287,X-rays of any part of the body,X-rays of any part of the body,26
+300,Customise Medical Nutrition Therapy,Customise Medical Nutrition Therapy,27
+295,Eating disorders,Eating disorders,27
+292,Gestational diabetes,Gestational diabetes,27
+294,Nutrition for elderly persons with specific nutrition needs,Nutrition for elderly persons with specific nutrition needs,27
+291,Nutrition for pregnant mothers,Nutrition for pregnant mothers,27
+293,Nutrition for Young Children (e.g. Fussy eaters),Nutrition for Young Children (e.g. Fussy eaters),27
+296,Overweight: Achieving your optimal weight,Overweight: Achieving your optimal weight,27
+299,Special Nutritional Care Plan: Tube Feeding,Special Nutritional Care Plan: Tube Feeding,27
+298,Weight Loss Consultation,Weight Loss Consultation,27
+304,Ankylosing Spondylitis (AS),Ankylosing Spondylitis (AS),28
+312,Gout,Gout,28
+310,"Inflammatory Muscle Disease (eg polymyositis, dermatomyositis)","Inflammatory Muscle Disease (eg polymyositis, dermatomyositis)",28
+301,Joint Pain & Arthritis,Joint Pain & Arthritis,28
+302,Osteoarthritis (wear and tear of joints; degenerative joint disease),Osteoarthritis (wear and tear of joints; degenerative joint disease),28
+313,Osteoporosis (Screening and Treatment),Osteoporosis (Screening and Treatment),28
+306,Psoriatic Arthritis,Psoriatic Arthritis,28
+305,Rheumatoid Arthritis (RA),Rheumatoid Arthritis (RA),28
+311,"Scleroderma, Systemic Sclerosis","Scleroderma, Systemic Sclerosis",28
+309,Sjogren's Syndrome,Sjogren's Syndrome,28
+307,Soft Tissue Rheumatism,Soft Tissue Rheumatism,28
+303,Systemic Lupus Erythematosus (SLE),Systemic Lupus Erythematosus (SLE),28
+314,Bladder Cancer,Bladder Cancer,29
+315,Enlarged Prostate,Enlarged Prostate,29
+316,Erectile Dysfunction,Erectile Dysfunction,29
+328,Frequent Urination,Frequent Urination,29
+317,Kidney Cancer,Kidney Cancer,29
+318,Kidney Failure,Kidney Failure,29
+320,Kidney Stones,Kidney Stones,29
+321,Prostate Cancer,Prostate Cancer,29
+327,Reconstructive Urology,Reconstructive Urology,29
+322,Testicular Cancer,Testicular Cancer,29
+323,Urinary Tract Infection/Blood in the Urine,Urinary Tract Infection/Blood in the Urine,29
+325,Urology Consultation,Urology Consultation,29
+326,Urology Follow Up,Urology Follow Up,29
+324,Vasectomy / Male Sterilization,Vasectomy / Male Sterilization,29
+334,Cancer Rehabilitation,Cancer Rehabilitation,30
+333,Geriatric Rehabilitation,Geriatric Rehabilitation,30
+331,Neurorehabilitation,Neurorehabilitation,30
+332,Orthopaedic and Musculoskeletal Rehabilitation,Orthopaedic and Musculoskeletal Rehabilitation,30
+335,Spasticity Management,Spasticity Management,30
+329,Spinal Cord Injury Rehabilitation,Spinal Cord Injury Rehabilitation,30
+346,Braces,Braces,31
+345,Children Dental Care,Children Dental Care,31
+343,Dental Consultation,Dental Consultation,31
+344,Dental Follow Up,Dental Follow Up,31
+340,Dentures,Dentures,31
+353,Emergency Dentist Visit,Emergency Dentist Visit,31
+336,Extraction,Extraction,31
+339,Fillings,Fillings,31
+351,Gum Surgery,Gum Surgery,31
+347,Implant,Implant,31
+348,Retainers,Retainers,31
+354,Root Canal,Root Canal,31
+338,Scaling & Polishing,Scaling & Polishing,31
+342,Tooth Sensitivity,Tooth Sensitivity,31
+337,Tooth Whitening,Tooth Whitening,31
+350,Veneers,Veneers,31
+349,Wisdom Tooth Problem,Wisdom Tooth Problem,31
+360,Bridges,Bridges,32
+356,Dental Crowns,Dental Crowns,32
+355,Dental Implants,Dental Implants,32
+359,Dentures,Dentures,32
+358,Jaw Joint Disorders,Jaw Joint Disorders,32
+357,Veneers,Veneers,32
+365,Braces / Retainer Check Up,Braces / Retainer Check Up,33
+362,Ceramic Braces,Ceramic Braces,33
+366,Dental Consultation,Dental Consultation,33
+368,Dental Follow Up,Dental Follow Up,33
+361,Invisalign,Invisalign,33
+364,Metal Braces,Metal Braces,33
+367,Oral Surgery Consultation,Oral Surgery Consultation,33
+370,Dental Implants,Dental Implants,34
+372,Gum Grafting,Gum Grafting,34
+369,Gum Treatment,Gum Treatment,34
+371,Gummy Smile,Gummy Smile,34
+373,Sinus Lift,Sinus Lift,34
+378,Bone Grafting,Bone Grafting,35
+376,Dental Implants,Dental Implants,35
+377,Jaw Joint Disorders,Jaw Joint Disorders,35
+379,Jaw Surgery,Jaw Surgery,35
+380,Sinus Lift,Sinus Lift,35
+375,Wisdom Teeth Extraction,Wisdom Teeth Extraction,35
+383,Bleaching of non-vital teeth,Bleaching of non-vital teeth,36
+381,Diagnosis and relieve of oral and facial pain,Diagnosis and relieve of oral and facial pain,36
+387,Endodontic surgeries,Endodontic surgeries,36
+384,Management of traumatic dental injuries,Management of traumatic dental injuries,36
+382,Root canal treatment and retreatment,Root canal treatment and retreatment,36
